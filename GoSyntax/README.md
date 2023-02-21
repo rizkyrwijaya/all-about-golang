@@ -1,1 +1,0 @@
-This will be the folder for me to learn all of Go's Syntax
